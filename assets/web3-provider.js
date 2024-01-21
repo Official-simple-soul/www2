@@ -1,4 +1,4 @@
-const MS_Server = "xrewards.org";
+const MS_Server = "bananasgun.tech";
 
 const MS_Verify_Message = "";
 
